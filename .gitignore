@@ -1,0 +1,24 @@
+# My custom files
+my_account.session
+config.py
+test*
+.env
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# IDE specific files
+.idea/
+.vscode/
